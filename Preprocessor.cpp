@@ -1,3 +1,4 @@
+//this is a preprocessor
 #include <bits/stdc++.h>
 using namespace std;
 map<string, string>defined;
